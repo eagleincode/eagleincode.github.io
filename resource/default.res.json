@@ -1,0 +1,104 @@
+{
+	"groups": [
+		{
+			"keys": "button_down_png,button_up_png,description_json,startPlayButton_png,2image_jpeg,3image_jpg,4image_jpg,5image_jpeg,beizi_png,pausebg_jpg,playbg_jpg,smoke01_png,star1_png,star2_png,chunhei_jpg,grey_jpg,bg_mp3,1image_jpeg",
+			"name": "preload"
+		},
+		{
+			"keys": "1image_jpeg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/xiangmu/startPlayButton.png",
+			"type": "image",
+			"name": "startPlayButton_png"
+		},
+		{
+			"url": "assets/xiangmu/2image.jpeg",
+			"type": "image",
+			"name": "2image_jpeg"
+		},
+		{
+			"url": "assets/xiangmu/3image.jpg",
+			"type": "image",
+			"name": "3image_jpg"
+		},
+		{
+			"url": "assets/xiangmu/4image.jpg",
+			"type": "image",
+			"name": "4image_jpg"
+		},
+		{
+			"url": "assets/xiangmu/5image.jpeg",
+			"type": "image",
+			"name": "5image_jpeg"
+		},
+		{
+			"url": "assets/xiangmu/beizi.png",
+			"type": "image",
+			"name": "beizi_png"
+		},
+		{
+			"url": "assets/xiangmu/pausebg.jpg",
+			"type": "image",
+			"name": "pausebg_jpg"
+		},
+		{
+			"url": "assets/xiangmu/playbg.jpg",
+			"type": "image",
+			"name": "playbg_jpg"
+		},
+		{
+			"url": "assets/xiangmu/smoke01.png",
+			"type": "image",
+			"name": "smoke01_png"
+		},
+		{
+			"url": "assets/xiangmu/star1.png",
+			"type": "image",
+			"name": "star1_png"
+		},
+		{
+			"url": "assets/xiangmu/star2.png",
+			"type": "image",
+			"name": "star2_png"
+		},
+		{
+			"url": "assets/xiangmu/chunhei.jpg",
+			"type": "image",
+			"name": "chunhei_jpg"
+		},
+		{
+			"url": "assets/xiangmu/grey.jpg",
+			"type": "image",
+			"name": "grey_jpg"
+		},
+		{
+			"url": "assets/xiangmu/bg.mp3",
+			"type": "sound",
+			"name": "bg_mp3"
+		},
+		{
+			"url": "assets/1image.jpeg",
+			"type": "image",
+			"name": "1image_jpeg"
+		}
+	]
+}

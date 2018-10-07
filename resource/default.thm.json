@@ -1,0 +1,22 @@
+{
+	"skins": {
+		"eui.Button": "resource/eui_skins/ButtonSkin.exml",
+		"eui.TextInput": "resource/eui_skins/TextInputSkin.exml",
+		"nameScene": "resource/Scene/nameScene.exml",
+		"game1Scene": "resource/Scene/game1Scene.exml",
+		"game2Scene": "resource/Scene/game2Scene.exml",
+		"game3Scene": "resource/Scene/game3Scene.exml",
+		"resultScene": "resource/Scene/resultScene.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/ButtonSkin.exml",
+		"resource/eui_skins/TextInputSkin.exml",
+		"resource/Scene/game1Scene.exml",
+		"resource/Scene/game2Scene.exml",
+		"resource/Scene/game3Scene.exml",
+		"resource/Scene/nameScene.exml",
+		"resource/Scene/resultScene.exml"
+	],
+	"path": "resource/default.thm.json"
+}
